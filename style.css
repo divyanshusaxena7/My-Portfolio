@@ -1101,7 +1101,7 @@ body {
     }
 
     .home-img{
-        width: 300px;
+        width: 290px;
         height: 350px;
         position: relative;
         left: 0%;
@@ -1110,9 +1110,10 @@ body {
         padding-left: 0;
         margin-left: 0;
         overflow: hidden;
+        padding-right:3%;
     }
      .responsive{
-        height: 350px;
+        height: 340px;
      }
 
      .social-media{
@@ -1212,7 +1213,7 @@ body {
 
     .prj-list{
         overflow: hidden;
-        padding-left: 10px ;
+       
     }
 
     .prj-info:hover{
